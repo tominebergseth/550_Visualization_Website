@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Number of Bigfoot sightings per county</title>
+	<h1>Number of Bigfoot sightings per county</h1>
+	<h2>D3.js Bubble Chart</h2>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+<div id="observablehq-chart-e5d36a5a"></div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+import define from "https://api.observablehq.com/d/c6f9d60f9efa8eb3.js?v=4";
+new Runtime().module(define, name => {
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-e5d36a5a"));
+});
+</script></body>
+</html>
