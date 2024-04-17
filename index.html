@@ -42,7 +42,7 @@
                     <li class="hidden"><a class="page-scroll" href="#page-top" style="color:white"></a></li>
                     <li><a class="page-scroll" href="#about" style="color:#ffffff">About</a></li>
                     <li><a class="page-scroll" href="#features" style="color:#ffffff">Insights</a></li>
-                    <li><a class="page-scroll" style="color:#ffffff" href="#learn-more">Partners</a></li>
+                    <li><a class="page-scroll" href="../html/d3-examples.html" style="color:#ffffff">Visualizations</a></li>
                 </ul>
               </nav>
                 <img src="images/usc-primary-logotype.svg" width="176px" height="38px">
@@ -53,7 +53,7 @@
 
     <!-- Intro Section -->
     <div>
-        <section id="intro" class="intro-section" style="background-image: url('images/bigfoot_intro.png'); opacity: 1.0;background-attachment: fixed; background-size: cover;
+        <section id="intro" class="intro-section" style="background-image: url('images/bigfoot_collage.jpg'); opacity: 1.0;background-attachment: fixed; background-size: cover;
           background-repeat: no-repeat;">
             <div class="container" style="padding-top:100px">
                 <div class="row">
@@ -61,15 +61,17 @@
                         <h1 class="title">BigFoot Data Insights</h1>
                     </div>
                 </div>
-                <div class="row" style="padding-top:15px">
+                <!--div class="row" style="padding-top:180px">
                   <div class="col-md-12">
                     <a class="btn btn-default btn-lg page-scroll" href="#about" style="margin-top:5%">Learn More</a>
                   </div>
-                </div>
-                <div class="row" style="padding-top:180px">
-                    <div class="col-md-3 col-md-offset-1">
-                      <a class="btn btn-default btn-lg page-scroll"
-                      href="html/d3-examples.html">Explore Visualizations</a>
+                </div-->
+                <div class="row align-items-center" style="padding-top:180px">
+                    <div class="col-md-8 col-sm-12">
+                        <a class="btn btn-default btn-lg page-scroll" href="#about" style="margin-top:5%">Learn More</a>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <a class="btn btn-default btn-lg page-scroll" href="html/d3-examples.html">Explore Visualizations</a>
                     </div>
                 </div>
 
@@ -89,16 +91,16 @@
                     <hr class="about-divider">
 
                     <div class="jumbotron" style="margin-bottom:5%; margin-top:3%">
-                        <h2>USC Data Science At Scale, Team 9, Spring 2024</h2>
-                        <p class="lead text-left" style="margin-top:2%">We are a team of 6 USC Data Science Graduate Students who have worked on the Bigfoot Field Researchers Organization (BFRO) dataset thoughout the Spring 2024 semester to add relevant features, cluster, and analyze bigfoot sightings throughout the US.</p>
-                        <p class="lead text-left">This website contains five visualizations we made using D3.js to showcase some central findings of our dataset.</p>
+                        <h2>USC Data Science At Scale Spring 2024, Team 9</h2>
+                        <p class="lead text-left" style="margin-top:2%">We are a team of six USC Data Science Graduate Students who have worked on the Bigfoot Field Researchers Organization (BFRO) dataset thoughout the Spring 2024 semester to add relevant features, cluster, and analyze bigfoot sightings across the US.</p>
+                        <p class="lead text-left">This website contains five interactive visualizations we made using D3.js to showcase some central findings of our dataset.</p>
                     </div>
                 </div>
             </div>
         </section>
     </div>
 
-    <!-- Features Section -->
+<!-- Features Section -->
     <div>
         <section id="features" class="features-section" style="margin-top:-1%; margin-bottom:5%">
             <div class="container">
@@ -115,9 +117,10 @@
                     <div class="row featurette" style="margin-top:3%; margin-bottom:3%">
                         <div class="col-md-7 col-md-push-5">
                           <h2 align=left class="featurette-heading"><a href="https://d3js.org/">D3.js</a>. <span class="text-muted">See for yourself.</span></h2>
-                          <p align=left class="lead"> <a href="html/d3-examples.html"> View our visualizations. </a> </p>
+                          <p align=left class="lead"> <a href="html/d3-examples.html"> View some of our visualizations. </a> </p>
                         </div>
                         <div class="col-md-5 col-md-pull-7">
+                          <img class="featurette-image img-responsive center-block" src="images/d3_feature.png" alt="Generic placeholder image">
                         </div>
                     </div>
                 </div>
@@ -125,6 +128,29 @@
         </section>
     </div>
 
+
+            </div>
+				<div class="col-lg-12" style="margin-top:5%;" >
+                  <h3 align=center>Credits</h3>
+                  <hr class="featurette-divider">
+                  <div class="row">
+                  <p>Dr. Chris Mattmann - <a href="http://sunset.usc.edu/~mattmann/">Visit his website</a></p>
+                  <p>CS599 Spring 2018 Class - <a href="http://irds.usc.edu/classes/cs599_2018a/">Visit the class website</a></p>
+				</div>
+            </div>
+			</div>
+        </section>
+    </div>
+
+
+    <hr class="featurette-divider">
+    <div>
+        <div class="container">
+            <footer>
+                <p align=center>©USC DSCI 550: Data Science at Scale, Spring 2024, Team 9</p>
+            </footer>
+        </div>
+    </div>
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
