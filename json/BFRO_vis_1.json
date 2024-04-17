@@ -3,217 +3,475 @@
     {
       "Year": 1979,
       "Non_Hotspots_Median": 1118800.0,
-      "Hotspots_Median": 963726.0
+      "Hotspots_Median": 963726.0,
+      "Non_Hotspots_Mean": 1137019.523076923,
+      "Hotspots_Mean": 956042.25,
+      "Non_Hotspots_Min": 14782.0,
+      "Hotspots_Min": 380014.0,
+      "Non_Hotspots_Max": 8019788.0,
+      "Hotspots_Max": 1516703.0
     },
     {
       "Year": 1980,
       "Non_Hotspots_Median": 1160588.0,
-      "Hotspots_Median": 1268256.0
+      "Hotspots_Median": 1268256.0,
+      "Non_Hotspots_Mean": 1188802.611764706,
+      "Hotspots_Mean": 1213009.0,
+      "Non_Hotspots_Min": 30703.0,
+      "Hotspots_Min": 796079.0,
+      "Non_Hotspots_Max": 8440953.0,
+      "Hotspots_Max": 1298457.0
     },
     {
       "Year": 1981,
       "Non_Hotspots_Median": 1286316.0,
-      "Hotspots_Median": 1233671.0
+      "Hotspots_Median": 1233671.0,
+      "Non_Hotspots_Mean": 1924389.4814814816,
+      "Hotspots_Mean": 1005601.0,
+      "Non_Hotspots_Min": 14558.0,
+      "Hotspots_Min": 549461.0,
+      "Non_Hotspots_Max": 8312884.0,
+      "Hotspots_Max": 1233671.0
     },
     {
       "Year": 1982,
       "Non_Hotspots_Median": 1015580.0,
-      "Hotspots_Median": 1007300.0
+      "Hotspots_Median": 1007300.0,
+      "Non_Hotspots_Mean": 1456162.2,
+      "Hotspots_Mean": 1156430.6,
+      "Non_Hotspots_Min": 13238.0,
+      "Hotspots_Min": 467126.0,
+      "Non_Hotspots_Max": 8177869.0,
+      "Hotspots_Max": 2293127.0
     },
     {
       "Year": 1983,
       "Non_Hotspots_Median": 1133157.0,
-      "Hotspots_Median": 1106306.0
+      "Hotspots_Median": 1106306.0,
+      "Non_Hotspots_Mean": 1564926.78,
+      "Hotspots_Mean": 1480417.5,
+      "Non_Hotspots_Min": 12928.0,
+      "Hotspots_Min": 858041.0,
+      "Non_Hotspots_Max": 8435475.0,
+      "Hotspots_Max": 2457464.0
     },
     {
       "Year": 1984,
       "Non_Hotspots_Median": 1501450.0,
-      "Hotspots_Median": 1152411.0
+      "Hotspots_Median": 1152411.0,
+      "Non_Hotspots_Mean": 1949902.2653061224,
+      "Hotspots_Mean": 912444.8,
+      "Non_Hotspots_Min": 11814.0,
+      "Hotspots_Min": 467155.0,
+      "Non_Hotspots_Max": 8508390.0,
+      "Hotspots_Max": 1152411.0
     },
     {
       "Year": 1985,
       "Non_Hotspots_Median": 1112764.0,
-      "Hotspots_Median": 1165640.0
+      "Hotspots_Median": 1165640.0,
+      "Non_Hotspots_Mean": 1911724.350877193,
+      "Hotspots_Mean": 1417255.75,
+      "Non_Hotspots_Min": 12332.0,
+      "Hotspots_Min": 505791.0,
+      "Non_Hotspots_Max": 9319290.0,
+      "Hotspots_Max": 2831952.0
     },
     {
       "Year": 1986,
       "Non_Hotspots_Median": 1042148.0,
-      "Hotspots_Median": 1298457.0
+      "Hotspots_Median": 1298457.0,
+      "Non_Hotspots_Mean": 2068559.213114754,
+      "Hotspots_Mean": 1298457.0,
+      "Non_Hotspots_Min": 16508.0,
+      "Hotspots_Min": 1298457.0,
+      "Non_Hotspots_Max": 9836306.0,
+      "Hotspots_Max": 1298457.0
     },
     {
       "Year": 1987,
       "Non_Hotspots_Median": 1113405.0,
-      "Hotspots_Median": 1292027.0
+      "Hotspots_Median": 1292027.0,
+      "Non_Hotspots_Mean": 2069110.0208333333,
+      "Hotspots_Mean": 1292027.0,
+      "Non_Hotspots_Min": 20312.0,
+      "Hotspots_Min": 1292027.0,
+      "Non_Hotspots_Max": 10209841.0,
+      "Hotspots_Max": 1292027.0
     },
     {
       "Year": 1988,
       "Non_Hotspots_Median": 1229717.0,
-      "Hotspots_Median": 677135.0
+      "Hotspots_Median": 677135.0,
+      "Non_Hotspots_Mean": 1540436.075471698,
+      "Hotspots_Mean": 1499927.6666666667,
+      "Non_Hotspots_Min": 26257.0,
+      "Hotspots_Min": 605967.0,
+      "Non_Hotspots_Max": 8770781.0,
+      "Hotspots_Max": 3216681.0
     },
     {
       "Year": 1989,
       "Non_Hotspots_Median": 1672840.0,
-      "Hotspots_Median": 1004208.5
+      "Hotspots_Median": 1004208.5,
+      "Non_Hotspots_Mean": 1698204.9791666667,
+      "Hotspots_Mean": 1610185.25,
+      "Non_Hotspots_Min": 25445.0,
+      "Hotspots_Min": 466115.0,
+      "Non_Hotspots_Max": 5440952.0,
+      "Hotspots_Max": 3966209.0
     },
     {
       "Year": 1990,
       "Non_Hotspots_Median": 1123175.0,
-      "Hotspots_Median": 1327101.0
+      "Hotspots_Median": 1327101.0,
+      "Non_Hotspots_Mean": 1545146.1346153845,
+      "Hotspots_Mean": 1677041.5714285714,
+      "Non_Hotspots_Min": 23223.0,
+      "Hotspots_Min": 1327101.0,
+      "Non_Hotspots_Max": 9989395.0,
+      "Hotspots_Max": 3776685.0
     },
     {
       "Year": 1991,
       "Non_Hotspots_Median": 1358984.0,
-      "Hotspots_Median": 1549412.0
+      "Hotspots_Median": 1549412.0,
+      "Non_Hotspots_Mean": 1681596.0535714286,
+      "Hotspots_Mean": 1327089.0,
+      "Non_Hotspots_Min": 22004.0,
+      "Hotspots_Min": 22796.0,
+      "Non_Hotspots_Max": 8654459.0,
+      "Hotspots_Max": 3886031.0
     },
     {
       "Year": 1992,
       "Non_Hotspots_Median": 1504013.0,
-      "Hotspots_Median": 468011.0
+      "Hotspots_Median": 468011.0,
+      "Non_Hotspots_Mean": 1708381.3921568627,
+      "Hotspots_Mean": 792616.3333333334,
+      "Non_Hotspots_Min": 22728.0,
+      "Hotspots_Min": 387781.0,
+      "Non_Hotspots_Max": 8931690.0,
+      "Hotspots_Max": 1522057.0
     },
     {
       "Year": 1993,
       "Non_Hotspots_Median": 1763094.0,
-      "Hotspots_Median": 1365213.0
+      "Hotspots_Median": 1365213.0,
+      "Non_Hotspots_Mean": 2274210.933333333,
+      "Hotspots_Mean": 1783756.1818181819,
+      "Non_Hotspots_Min": 21378.0,
+      "Hotspots_Min": 421027.0,
+      "Non_Hotspots_Max": 9283848.0,
+      "Hotspots_Max": 3839645.0
     },
     {
       "Year": 1994,
       "Non_Hotspots_Median": 1528537.0,
-      "Hotspots_Median": 1426244.0
+      "Hotspots_Median": 1426244.0,
+      "Non_Hotspots_Mean": 1870297.4242424243,
+      "Hotspots_Mean": 1819807.25,
+      "Non_Hotspots_Min": 19323.0,
+      "Hotspots_Min": 454215.0,
+      "Non_Hotspots_Max": 8628174.0,
+      "Hotspots_Max": 3962117.0
     },
     {
       "Year": 1995,
       "Non_Hotspots_Median": 1617077.0,
-      "Hotspots_Median": 1438227.0
+      "Hotspots_Median": 1438227.0,
+      "Non_Hotspots_Mean": 1866554.7462686568,
+      "Hotspots_Mean": 1311689.4285714286,
+      "Non_Hotspots_Min": 65984.0,
+      "Hotspots_Min": 552464.0,
+      "Non_Hotspots_Max": 9080420.0,
+      "Hotspots_Max": 1438227.0
     },
     {
       "Year": 1996,
       "Non_Hotspots_Median": 1538105.0,
-      "Hotspots_Median": 1338961.0
+      "Hotspots_Median": 1338961.0,
+      "Non_Hotspots_Mean": 1726728.2068965517,
+      "Hotspots_Mean": 1156556.4,
+      "Non_Hotspots_Min": 23445.0,
+      "Hotspots_Min": 426938.0,
+      "Non_Hotspots_Max": 9265667.0,
+      "Hotspots_Max": 1338961.0
     },
     {
       "Year": 1997,
       "Non_Hotspots_Median": 1509596.0,
-      "Hotspots_Median": 1315773.0
+      "Hotspots_Median": 1315773.0,
+      "Non_Hotspots_Mean": 1847707.638095238,
+      "Hotspots_Mean": 1493387.0,
+      "Non_Hotspots_Min": 21381.0,
+      "Hotspots_Min": 382488.0,
+      "Non_Hotspots_Max": 9965075.0,
+      "Hotspots_Max": 3669970.0
     },
     {
       "Year": 1998,
       "Non_Hotspots_Median": 1473100.0,
-      "Hotspots_Median": 1353793.0
+      "Hotspots_Median": 1353793.0,
+      "Non_Hotspots_Mean": 2043075.8095238095,
+      "Hotspots_Mean": 1207779.5,
+      "Non_Hotspots_Min": 5550.0,
+      "Hotspots_Min": 32753.0,
+      "Non_Hotspots_Max": 9989395.0,
+      "Hotspots_Max": 3657132.0
     },
     {
       "Year": 1999,
       "Non_Hotspots_Median": 1384469.0,
-      "Hotspots_Median": 1291397.0
+      "Hotspots_Median": 1291397.0,
+      "Non_Hotspots_Mean": 2589935.777777778,
+      "Hotspots_Mean": 1326925.857142857,
+      "Non_Hotspots_Min": 23493.0,
+      "Hotspots_Min": 21488.0,
+      "Non_Hotspots_Max": 10283598.0,
+      "Hotspots_Max": 4575124.0
     },
     {
       "Year": 2000,
       "Non_Hotspots_Median": 1419579.0,
-      "Hotspots_Median": 1344833.0
+      "Hotspots_Median": 1344833.0,
+      "Non_Hotspots_Mean": 2227228.514450867,
+      "Hotspots_Mean": 1191451.44,
+      "Non_Hotspots_Min": 21096.0,
+      "Hotspots_Min": 25704.0,
+      "Non_Hotspots_Max": 10175812.0,
+      "Hotspots_Max": 4460228.0
     },
     {
       "Year": 2001,
       "Non_Hotspots_Median": 1296786.0,
-      "Hotspots_Median": 1301103.0
+      "Hotspots_Median": 1301103.0,
+      "Non_Hotspots_Mean": 1746538.3379310344,
+      "Hotspots_Mean": 1518095.619047619,
+      "Non_Hotspots_Min": 19431.0,
+      "Hotspots_Min": 16912.0,
+      "Non_Hotspots_Max": 9197697.0,
+      "Hotspots_Max": 3368731.0
     },
     {
       "Year": 2002,
       "Non_Hotspots_Median": 1389244.0,
-      "Hotspots_Median": 1310390.0
+      "Hotspots_Median": 1310390.0,
+      "Non_Hotspots_Mean": 1896300.7731092437,
+      "Hotspots_Mean": 1224034.3125,
+      "Non_Hotspots_Min": 19463.0,
+      "Hotspots_Min": 20691.0,
+      "Non_Hotspots_Max": 9316420.0,
+      "Hotspots_Max": 3361867.0
     },
     {
       "Year": 2003,
       "Non_Hotspots_Median": 1272848.5,
-      "Hotspots_Median": 1262351.0
+      "Hotspots_Median": 1262351.0,
+      "Non_Hotspots_Mean": 2101546.838235294,
+      "Hotspots_Mean": 1199223.5714285714,
+      "Non_Hotspots_Min": 17800.0,
+      "Hotspots_Min": 408126.0,
+      "Non_Hotspots_Max": 9366845.0,
+      "Hotspots_Max": 3378664.0
     },
     {
       "Year": 2004,
       "Non_Hotspots_Median": 1418735.0,
-      "Hotspots_Median": 1217750.0
+      "Hotspots_Median": 1217750.0,
+      "Non_Hotspots_Mean": 1944235.7724550897,
+      "Hotspots_Mean": 1071402.9,
+      "Non_Hotspots_Min": 16912.0,
+      "Hotspots_Min": 392029.0,
+      "Non_Hotspots_Max": 9167046.0,
+      "Hotspots_Max": 1217750.0
     },
     {
       "Year": 2005,
       "Non_Hotspots_Median": 1340160.0,
-      "Hotspots_Median": 1173897.0
+      "Hotspots_Median": 1173897.0,
+      "Non_Hotspots_Mean": 2132170.8258064515,
+      "Hotspots_Mean": 896317.375,
+      "Non_Hotspots_Min": 17398.0,
+      "Hotspots_Min": 18686.0,
+      "Non_Hotspots_Max": 9192477.0,
+      "Hotspots_Max": 1173897.0
     },
     {
       "Year": 2006,
       "Non_Hotspots_Median": 1113601.0,
-      "Hotspots_Median": 1113601.0
+      "Hotspots_Median": 1113601.0,
+      "Non_Hotspots_Mean": 2014276.662576687,
+      "Hotspots_Mean": 1920672.357142857,
+      "Non_Hotspots_Min": 17070.0,
+      "Hotspots_Min": 383780.0,
+      "Non_Hotspots_Max": 9372253.0,
+      "Hotspots_Max": 4279439.0
     },
     {
       "Year": 2007,
       "Non_Hotspots_Median": 1107227.0,
-      "Hotspots_Median": 1047685.0
+      "Hotspots_Median": 1047685.0,
+      "Non_Hotspots_Mean": 2102711.045045045,
+      "Hotspots_Mean": 1875185.7272727273,
+      "Non_Hotspots_Min": 15973.0,
+      "Hotspots_Min": 385171.0,
+      "Non_Hotspots_Max": 9372253.0,
+      "Hotspots_Max": 4413668.0
     },
     {
       "Year": 2008,
       "Non_Hotspots_Median": 1212854.0,
-      "Hotspots_Median": 1163227.0
+      "Hotspots_Median": 1163227.0,
+      "Non_Hotspots_Mean": 1732014.6124031008,
+      "Hotspots_Mean": 1288601.5,
+      "Non_Hotspots_Min": 14038.0,
+      "Hotspots_Min": 18725.0,
+      "Non_Hotspots_Max": 9491437.0,
+      "Hotspots_Max": 4425314.0
     },
     {
       "Year": 2009,
       "Non_Hotspots_Median": 1151654.0,
-      "Hotspots_Median": 1151654.0
+      "Hotspots_Median": 1151654.0,
+      "Non_Hotspots_Mean": 2192178.504132231,
+      "Hotspots_Mean": 890558.3333333334,
+      "Non_Hotspots_Min": 26972.0,
+      "Hotspots_Min": 26972.0,
+      "Non_Hotspots_Max": 9491437.0,
+      "Hotspots_Max": 1151654.0
     },
     {
       "Year": 2010,
       "Non_Hotspots_Median": 2150345.0,
-      "Hotspots_Median": 1191754.0
+      "Hotspots_Median": 1191754.0,
+      "Non_Hotspots_Mean": 2080021.8363636364,
+      "Hotspots_Mean": 960760.5454545454,
+      "Non_Hotspots_Min": 15793.0,
+      "Hotspots_Min": 448319.0,
+      "Non_Hotspots_Max": 9463538.0,
+      "Hotspots_Max": 1191754.0
     },
     {
       "Year": 2011,
       "Non_Hotspots_Median": 1209883.0,
-      "Hotspots_Median": 1038229.0
+      "Hotspots_Median": 1038229.0,
+      "Non_Hotspots_Mean": 1907085.060150376,
+      "Hotspots_Mean": 899337.125,
+      "Non_Hotspots_Min": 15892.0,
+      "Hotspots_Min": 351269.0,
+      "Non_Hotspots_Max": 9008830.0,
+      "Hotspots_Max": 1038229.0
     },
     {
       "Year": 2012,
       "Non_Hotspots_Median": 1210200.0,
-      "Hotspots_Median": 1049178.0
+      "Hotspots_Median": 1049178.0,
+      "Non_Hotspots_Mean": 1919202.604519774,
+      "Hotspots_Mean": 1217030.2142857143,
+      "Non_Hotspots_Min": 16663.0,
+      "Hotspots_Min": 26935.0,
+      "Non_Hotspots_Max": 9685829.0,
+      "Hotspots_Max": 4421352.0
     },
     {
       "Year": 2013,
       "Non_Hotspots_Median": 1071823.0,
-      "Hotspots_Median": 896600.0
+      "Hotspots_Median": 896600.0,
+      "Non_Hotspots_Mean": 1843746.693430657,
+      "Hotspots_Mean": 662965.625,
+      "Non_Hotspots_Min": 16274.0,
+      "Hotspots_Min": 21623.0,
+      "Non_Hotspots_Max": 9354695.0,
+      "Hotspots_Max": 1148552.0
     },
     {
       "Year": 2014,
       "Non_Hotspots_Median": 1264259.0,
-      "Hotspots_Median": 1264259.0
+      "Hotspots_Median": 1264259.0,
+      "Non_Hotspots_Mean": 1841230.8448275863,
+      "Hotspots_Mean": 1468997.0,
+      "Non_Hotspots_Min": 14560.0,
+      "Hotspots_Min": 23865.0,
+      "Non_Hotspots_Max": 10099276.0,
+      "Hotspots_Max": 4756771.0
     },
     {
       "Year": 2015,
       "Non_Hotspots_Median": 1640195.0,
-      "Hotspots_Median": 1237231.0
+      "Hotspots_Median": 1237231.0,
+      "Non_Hotspots_Mean": 2329694.795180723,
+      "Hotspots_Mean": 2255927.2,
+      "Non_Hotspots_Min": 18684.0,
+      "Hotspots_Min": 20677.0,
+      "Non_Hotspots_Max": 10712674.0,
+      "Hotspots_Max": 5520736.0
     },
     {
       "Year": 2016,
       "Non_Hotspots_Median": 1437341.0,
-      "Hotspots_Median": 1356913.0
+      "Hotspots_Median": 1356913.0,
+      "Non_Hotspots_Mean": 2209512.2258064514,
+      "Hotspots_Mean": 1065212.142857143,
+      "Non_Hotspots_Min": 24966.0,
+      "Hotspots_Min": 28646.0,
+      "Non_Hotspots_Max": 11312786.0,
+      "Hotspots_Max": 1356913.0
     },
     {
       "Year": 2017,
       "Non_Hotspots_Median": 1415867.0,
-      "Hotspots_Median": 1415867.0
+      "Hotspots_Median": 1415867.0,
+      "Non_Hotspots_Mean": 1951227.5762711863,
+      "Hotspots_Mean": 1415867.0,
+      "Non_Hotspots_Min": 28196.0,
+      "Hotspots_Min": 1415867.0,
+      "Non_Hotspots_Max": 11338893.0,
+      "Hotspots_Max": 1415867.0
     },
     {
       "Year": 2018,
       "Non_Hotspots_Median": 1264880.0,
-      "Hotspots_Median": 2311473.0
+      "Hotspots_Median": 2311473.0,
+      "Non_Hotspots_Mean": 1520781.2291666667,
+      "Hotspots_Mean": 2311473.0,
+      "Non_Hotspots_Min": 25798.0,
+      "Hotspots_Min": 1518491.0,
+      "Non_Hotspots_Max": 11421200.0,
+      "Hotspots_Max": 3104455.0
     },
     {
       "Year": 2019,
       "Non_Hotspots_Median": 2055309.0,
-      "Hotspots_Median": 1003171.5
+      "Hotspots_Median": 1003171.5,
+      "Non_Hotspots_Mean": 2507829.2,
+      "Hotspots_Mean": 1003171.5,
+      "Non_Hotspots_Min": 26410.0,
+      "Hotspots_Min": 504722.0,
+      "Non_Hotspots_Max": 12547743.0,
+      "Hotspots_Max": 1501621.0
     },
     {
       "Year": 2020,
       "Non_Hotspots_Median": 1348215.0,
-      "Hotspots_Median": 1160754.0
+      "Hotspots_Median": 1160754.0,
+      "Non_Hotspots_Mean": 2143440.673076923,
+      "Hotspots_Mean": 1160754.0,
+      "Non_Hotspots_Min": 30885.0,
+      "Hotspots_Min": 1160754.0,
+      "Non_Hotspots_Max": 12095720.0,
+      "Hotspots_Max": 1160754.0
     },
     {
       "Year": 2021,
       "Non_Hotspots_Median": 1682720.0,
-      "Hotspots_Median": 435879.0
+      "Hotspots_Median": 435879.0,
+      "Non_Hotspots_Mean": 2268431.0,
+      "Hotspots_Mean": 435879.0,
+      "Non_Hotspots_Min": 17855.0,
+      "Hotspots_Min": 435879.0,
+      "Non_Hotspots_Max": 14161548.0,
+      "Hotspots_Max": 435879.0
     }
   ]
 }
