@@ -66,7 +66,7 @@ Navigation -->
     </div>
 	<div class="container" id="vis2" style="padding-bottom: 10%">
     <!-- Description -->
-    <h1>Nearest National Park Visitation Count Over Time</h1>
+    <h1>Nearest National Park Visitation Count For Hotspots vs. Non-Hotspots Over Time</h1>
     <br>
     <p>Click on median, mean, min, or max to view each value by year for nearest national park visitation counts to bigfoot sightings that took place in locations that are considered BigFoot Hotspots whereas those who were not considered hotspots.</p>
     <p>The default display value is the median. Hover over each line to display the exact vistation count and year value at that point.</p>
@@ -186,13 +186,13 @@ Navigation -->
                     .style("opacity", 0);
 
                  // Add title
-                svg.append("text")
-                    .attr("x", width / 2)
-                    .attr("y", -margin.top / 2)
-                    .attr("text-anchor", "middle")
-                    .style("font-size", "1.5em")
-                    .style("text-decoration", "underline")
-                    .text("Nearest National Park Visitation Count for Hotspots vs. Non-Hotspots Over Time");
+                // svg.append("text")
+                 //   .attr("x", width / 2)
+                  // .attr("y", -margin.top / 2)
+                  //  .attr("text-anchor", "middle")
+                  //  .style("font-size", "1.5em")
+                   // .style("text-decoration", "underline")
+                  //  .text("Nearest National Park Visitation Count for Hotspots vs. Non-Hotspots Over Time");
 
                  // Add legend
                  const legend = svg.append("g")
