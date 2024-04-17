@@ -1,0 +1,219 @@
+{
+  "BFRO": [
+    {
+      "Year": 1979,
+      "Non_Hotspots_Median": 1118800.0,
+      "Hotspots_Median": 963726.0
+    },
+    {
+      "Year": 1980,
+      "Non_Hotspots_Median": 1160588.0,
+      "Hotspots_Median": 1268256.0
+    },
+    {
+      "Year": 1981,
+      "Non_Hotspots_Median": 1286316.0,
+      "Hotspots_Median": 1233671.0
+    },
+    {
+      "Year": 1982,
+      "Non_Hotspots_Median": 1015580.0,
+      "Hotspots_Median": 1007300.0
+    },
+    {
+      "Year": 1983,
+      "Non_Hotspots_Median": 1133157.0,
+      "Hotspots_Median": 1106306.0
+    },
+    {
+      "Year": 1984,
+      "Non_Hotspots_Median": 1501450.0,
+      "Hotspots_Median": 1152411.0
+    },
+    {
+      "Year": 1985,
+      "Non_Hotspots_Median": 1112764.0,
+      "Hotspots_Median": 1165640.0
+    },
+    {
+      "Year": 1986,
+      "Non_Hotspots_Median": 1042148.0,
+      "Hotspots_Median": 1298457.0
+    },
+    {
+      "Year": 1987,
+      "Non_Hotspots_Median": 1113405.0,
+      "Hotspots_Median": 1292027.0
+    },
+    {
+      "Year": 1988,
+      "Non_Hotspots_Median": 1229717.0,
+      "Hotspots_Median": 677135.0
+    },
+    {
+      "Year": 1989,
+      "Non_Hotspots_Median": 1672840.0,
+      "Hotspots_Median": 1004208.5
+    },
+    {
+      "Year": 1990,
+      "Non_Hotspots_Median": 1123175.0,
+      "Hotspots_Median": 1327101.0
+    },
+    {
+      "Year": 1991,
+      "Non_Hotspots_Median": 1358984.0,
+      "Hotspots_Median": 1549412.0
+    },
+    {
+      "Year": 1992,
+      "Non_Hotspots_Median": 1504013.0,
+      "Hotspots_Median": 468011.0
+    },
+    {
+      "Year": 1993,
+      "Non_Hotspots_Median": 1763094.0,
+      "Hotspots_Median": 1365213.0
+    },
+    {
+      "Year": 1994,
+      "Non_Hotspots_Median": 1528537.0,
+      "Hotspots_Median": 1426244.0
+    },
+    {
+      "Year": 1995,
+      "Non_Hotspots_Median": 1617077.0,
+      "Hotspots_Median": 1438227.0
+    },
+    {
+      "Year": 1996,
+      "Non_Hotspots_Median": 1538105.0,
+      "Hotspots_Median": 1338961.0
+    },
+    {
+      "Year": 1997,
+      "Non_Hotspots_Median": 1509596.0,
+      "Hotspots_Median": 1315773.0
+    },
+    {
+      "Year": 1998,
+      "Non_Hotspots_Median": 1473100.0,
+      "Hotspots_Median": 1353793.0
+    },
+    {
+      "Year": 1999,
+      "Non_Hotspots_Median": 1384469.0,
+      "Hotspots_Median": 1291397.0
+    },
+    {
+      "Year": 2000,
+      "Non_Hotspots_Median": 1419579.0,
+      "Hotspots_Median": 1344833.0
+    },
+    {
+      "Year": 2001,
+      "Non_Hotspots_Median": 1296786.0,
+      "Hotspots_Median": 1301103.0
+    },
+    {
+      "Year": 2002,
+      "Non_Hotspots_Median": 1389244.0,
+      "Hotspots_Median": 1310390.0
+    },
+    {
+      "Year": 2003,
+      "Non_Hotspots_Median": 1272848.5,
+      "Hotspots_Median": 1262351.0
+    },
+    {
+      "Year": 2004,
+      "Non_Hotspots_Median": 1418735.0,
+      "Hotspots_Median": 1217750.0
+    },
+    {
+      "Year": 2005,
+      "Non_Hotspots_Median": 1340160.0,
+      "Hotspots_Median": 1173897.0
+    },
+    {
+      "Year": 2006,
+      "Non_Hotspots_Median": 1113601.0,
+      "Hotspots_Median": 1113601.0
+    },
+    {
+      "Year": 2007,
+      "Non_Hotspots_Median": 1107227.0,
+      "Hotspots_Median": 1047685.0
+    },
+    {
+      "Year": 2008,
+      "Non_Hotspots_Median": 1212854.0,
+      "Hotspots_Median": 1163227.0
+    },
+    {
+      "Year": 2009,
+      "Non_Hotspots_Median": 1151654.0,
+      "Hotspots_Median": 1151654.0
+    },
+    {
+      "Year": 2010,
+      "Non_Hotspots_Median": 2150345.0,
+      "Hotspots_Median": 1191754.0
+    },
+    {
+      "Year": 2011,
+      "Non_Hotspots_Median": 1209883.0,
+      "Hotspots_Median": 1038229.0
+    },
+    {
+      "Year": 2012,
+      "Non_Hotspots_Median": 1210200.0,
+      "Hotspots_Median": 1049178.0
+    },
+    {
+      "Year": 2013,
+      "Non_Hotspots_Median": 1071823.0,
+      "Hotspots_Median": 896600.0
+    },
+    {
+      "Year": 2014,
+      "Non_Hotspots_Median": 1264259.0,
+      "Hotspots_Median": 1264259.0
+    },
+    {
+      "Year": 2015,
+      "Non_Hotspots_Median": 1640195.0,
+      "Hotspots_Median": 1237231.0
+    },
+    {
+      "Year": 2016,
+      "Non_Hotspots_Median": 1437341.0,
+      "Hotspots_Median": 1356913.0
+    },
+    {
+      "Year": 2017,
+      "Non_Hotspots_Median": 1415867.0,
+      "Hotspots_Median": 1415867.0
+    },
+    {
+      "Year": 2018,
+      "Non_Hotspots_Median": 1264880.0,
+      "Hotspots_Median": 2311473.0
+    },
+    {
+      "Year": 2019,
+      "Non_Hotspots_Median": 2055309.0,
+      "Hotspots_Median": 1003171.5
+    },
+    {
+      "Year": 2020,
+      "Non_Hotspots_Median": 1348215.0,
+      "Hotspots_Median": 1160754.0
+    },
+    {
+      "Year": 2021,
+      "Non_Hotspots_Median": 1682720.0,
+      "Hotspots_Median": 435879.0
+    }
+  ]
+}
