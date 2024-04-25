@@ -1,19 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WordCloud</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>D3.js Line Chart</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Scrolling Nav CSS -->
+    <link href="../css/scrolling-nav.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="../css/styles.css" rel="stylesheet">
+    <script src="../js/jquery.js"></script>
+    <!-- D3.js -->
     <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
 
-<body>
-    <h1> Wordcloud</h1>
-    <div id="wordcloud"></div>
-    <script>
-    
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
+
+<!-- Header -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll" href="../index.html#page-top" style="color:white">Home</a>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav navbar-custom">
+                <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                <li class="hidden"><a class="page-scroll" href="../index.html#page-top" style="color:white"></a></li>
+                <li><a class="page-scroll" href="../index.html#about" style="color:#ffffff">About</a></li>
+                <li><a class="page-scroll" href="../index.html#features" style="color:#ffffff">Insights</a></li>
+                <li><a class="page-scroll" href="../index.html#search" style="color:#ffffff">Search</a></li>
+                <li><a class="page-scroll" href="../html/d3-examples.html" style="color:#ffffff">Visualizations</a></li>
+            </ul>
+            <a href="http://usc.edu" class="pull-right">
+              <img src="../images/usc-primary-logotype.svg" width="176px" height="38px"></img>
+            </a>
+
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<!-- Navigation -->
+Navigation -->
+    <div id="secondary-header"> </div>
+    <div class="container" style="margin-bottom: 2%">
+    <ul class="nav nav-tabs" id="tabs" style="margin-top:7%">
+        <li class="active"><a href="#mime-viz" data-toggle="tab">D3.js Word Cloud</a></li>
+    </ul>
+    </div>
+	<div class="container" id="vis2" style="padding-bottom: 10%">
+    <!-- Description -->
+    <h1>Word Cloud</h1>
+    <br>
+    <p>Word Cloud Visualization of the most common words in the bigfoot sightings data. The size of the word is correlated with the number of its occurrences in the data.</p>
+    <p>Hovering over the word shows the number of its occurrences in the data.</p>
+
+    <div id="chart-container"></div>
+        <div id="wordcloud"></div>
+
+    <script>
         var words = [["bfro",
             4389], ["followup",
             15247], ["report",
@@ -1071,7 +1127,7 @@
 
         // Position words without overlap
         var placedWords = [];
-       
+
         var simulation = d3.forceSimulation(words)
             .force("x", d3.forceX().strength(0.5).x(width / 2))
             .force("y", d3.forceY().strength(0.5).y(height / 2))
@@ -1080,13 +1136,13 @@
 
         for (var i = 0; i < 300; ++i) simulation.tick();
 
-   
+
         var minX = d3.min(words, function (d) { return d.x; });
         var maxX = d3.max(words, function (d) { return d.x; });
         var minY = d3.min(words, function (d) { return d.y; });
         var maxY = d3.max(words, function (d) { return d.y; });
 
-    
+
         var centerX = (maxX + minX) / 2;
         var centerY = (maxY + minY) / 2;
 
@@ -1094,7 +1150,7 @@
         var offsetX = width / 2 - centerX - 1000;
         var offsetY = height / 2 - centerY - 700;
 
-    
+
         var cloud = svg.selectAll("text")
             .data(words)
             .enter().append("text")
@@ -1107,21 +1163,21 @@
 
 
 
-        
+
         var originalText = "";
 
         cloud.on("mouseover", function () {
-            originalText = d3.select(this).text(); 
-            var freq = d3.select(this).data()[0][1]; 
+            originalText = d3.select(this).text();
+            var freq = d3.select(this).data()[0][1];
             d3.select(this).style("fill", "red")
-                .text(function (d) { return d[0] + " (" + freq + ")"; }); 
+                .text(function (d) { return d[0] + " (" + freq + ")"; });
         })
             .on("mouseout", function () {
-                d3.select(this).style("fill", function (d, i) { return color(i); }) 
-                    .text(originalText); 
+                d3.select(this).style("fill", function (d, i) { return color(i); })
+                    .text(originalText);
             });
-
     </script>
+    </div>
 
 </body>
 
