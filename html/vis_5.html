@@ -12,7 +12,7 @@
     <h1> Wordcloud</h1>
     <div id="wordcloud"></div>
     <script>
-        // JavaScript код из вашего примера
+    
 
         var words = [["bfro",
             4389], ["followup",
@@ -1071,8 +1071,7 @@
 
         // Position words without overlap
         var placedWords = [];
-        // Создаем симуляцию с равномерным распределением
-        // Создаем симуляцию с равномерным распределением
+       
         var simulation = d3.forceSimulation(words)
             .force("x", d3.forceX().strength(0.5).x(width / 2))
             .force("y", d3.forceY().strength(0.5).y(height / 2))
@@ -1081,21 +1080,21 @@
 
         for (var i = 0; i < 300; ++i) simulation.tick();
 
-        // Находим минимальные и максимальные значения по осям X и Y
+   
         var minX = d3.min(words, function (d) { return d.x; });
         var maxX = d3.max(words, function (d) { return d.x; });
         var minY = d3.min(words, function (d) { return d.y; });
         var maxY = d3.max(words, function (d) { return d.y; });
 
-        // Находим средние значения по осям X и Y
+    
         var centerX = (maxX + minX) / 2;
         var centerY = (maxY + minY) / 2;
 
-        // Сдвигаем координаты так, чтобы центр симуляции был по центру области
+
         var offsetX = width / 2 - centerX - 1000;
         var offsetY = height / 2 - centerY - 700;
 
-        // Добавляем слова на основе симуляции с учетом сдвига
+    
         var cloud = svg.selectAll("text")
             .data(words)
             .enter().append("text")
@@ -1108,18 +1107,18 @@
 
 
 
-        // Добавляем переменную для хранения данных
+        
         var originalText = "";
 
         cloud.on("mouseover", function () {
-            originalText = d3.select(this).text(); // сохраняем исходный текст
-            var freq = d3.select(this).data()[0][1]; // получаем частоту слова
-            d3.select(this).style("fill", "red") // меняем цвет на красный при наведении
-                .text(function (d) { return d[0] + " (" + freq + ")"; }); // отображаем частоту при наведении
+            originalText = d3.select(this).text(); 
+            var freq = d3.select(this).data()[0][1]; 
+            d3.select(this).style("fill", "red")
+                .text(function (d) { return d[0] + " (" + freq + ")"; }); 
         })
             .on("mouseout", function () {
-                d3.select(this).style("fill", function (d, i) { return color(i); }) // возвращаем исходный цвет при уходе мыши
-                    .text(originalText); // восстанавливаем исходный текст
+                d3.select(this).style("fill", function (d, i) { return color(i); }) 
+                    .text(originalText); 
             });
 
     </script>
