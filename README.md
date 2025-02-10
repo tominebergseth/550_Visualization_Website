@@ -3,7 +3,7 @@
 This website is a part of a semester long project in DSCI 550 at USC where we were assigned
 a dataset from the Bigfoot Field Researchers Organization to work on cluster, featurize, visualize, and
 analyze the data throughout the semester. The website features five D3.js visualizations to showcase
-some off this work.
+some of this work.
 
 
 # Credits
